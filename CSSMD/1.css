@@ -1,0 +1,33 @@
+.carousel {
+
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 20px;
+}
+
+ .carousel-item img {
+width: 2000px;
+height: 600px;
+ }
+
+ #articleFront {
+    padding: 20px;
+ }
+
+ .footer {
+
+    margin-top: 20px;   
+    background-color: blue; 
+ }
+
+ .card-deck {
+margin-left: 100px;
+margin-right: 100px;
+
+ }
+
+ .titlepage {
+    margin-left: 100px;
+
+ }

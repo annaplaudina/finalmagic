@@ -1,0 +1,15 @@
+.footer {
+   margin-top: 20px;   
+   background-color: blue; 
+}
+
+.container-fluid {
+
+   padding-left: 100px;
+   padding-right: 100px;
+
+}
+
+p {
+   text-align: justify;
+}
